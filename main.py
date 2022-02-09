@@ -11,3 +11,5 @@ elif mar>=70 and mar<60:
   print('You have received a D')
 elif mar<=60:
   print('You have received a F')
+  
+# check code for what happends if I score a 65.
